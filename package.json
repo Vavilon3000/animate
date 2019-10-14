@@ -20,7 +20,7 @@
     }
   },
   "devDependencies": {
-    "autoprefixer": "^8.2.0",
+    "autoprefixer": "^9.6.5",
     "cssnano": "^3.5.1",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.0",
